@@ -1,0 +1,21 @@
+body
+{
+	background: lightblue;
+}
+#output{
+    background: white;
+    border-radius: 10px;
+    border-top: 10px solid #AA4465;
+    padding: 10px;
+    float: none;
+    text-align: left;
+}
+.login{
+    text-align: center;
+    background-color: rgb(250, 58, 58);
+    width: 900px;
+    border-color: black;
+    border-radius: 10px;
+    border-width: 5px;
+    border-style: solid;
+}
